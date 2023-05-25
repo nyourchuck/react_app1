@@ -37,6 +37,8 @@ module.exports = {
         "no-warning-comments": "off",
         "react/display-name": "off",
         "no-undefined": "off",
+        "react/react-in-jsx-scope": "off",
+        "react/jsx-uses-react": "off",
         "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/explicit-module-boundary-types": "off",
         "@typescript-eslint/explicit-member-accessibility": [

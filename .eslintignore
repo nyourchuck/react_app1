@@ -1,0 +1,15 @@
+coverage/
+node_modules/
+next/
+.next/
+apps/consumer-next/server/build/
+apps/dealer-next/server/build/
+dist/
+__generated__/
+
+# GraphQL codegen
+*.graphql.tsx
+packages/graphql/runtime
+packages/graphql/types.tsx
+
+*.script.js
